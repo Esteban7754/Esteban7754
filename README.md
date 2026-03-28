@@ -60,12 +60,12 @@ Si has llegado hasta aqui, seguramente te interese alguna de estas tres cosas: v
 ## Estadisticas del perfil
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Esteban7754&show_icons=true&theme=transparent&hide_border=true&title_color=0f172a&icon_color=2563eb&text_color=334155" alt="Estadisticas de GitHub" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Esteban7754&theme=transparent&hide_border=true&ring=2563eb&fire=16a34a&currStreakLabel=0f172a&sideLabels=334155&dates=64748b" alt="Racha de GitHub" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Esteban7754&theme=github_dark" alt="Estadisticas de GitHub" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Esteban7754&theme=dark&hide_border=true&ring=2563eb&fire=16a34a&currStreakLabel=ffffff&sideLabels=cbd5e1&dates=94a3b8" alt="Racha de GitHub" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban7754&layout=compact&theme=transparent&hide_border=true&title_color=0f172a&text_color=334155" alt="Lenguajes mas usados" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Esteban7754&theme=github_dark" alt="Lenguajes mas usados" />
 </div>
 
 ## Una idea simple
