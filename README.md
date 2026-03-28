@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=README+de+perfil+en+modo+presentacion;Codigo+con+criterio%2C+producto+con+intencion;Siempre+aprendiendo%2C+siempre+construyendo" alt="Texto animado de presentacion" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Codigo+con+criterio%2C+producto+con+intencion;Siempre+aprendiendo%2C+siempre+construyendo" alt="Texto animado de presentacion" />
 </p>
 
 <p>
